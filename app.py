@@ -27,7 +27,6 @@ def displayFile(file):
         if file.lower().endswith(('.yml', '.json', '.yaml')):
         # First create a Github instance:
             g = Github()
-# Then play with your Github objects:
             repo = g.get_user(username).get_repo(repos)
             file_content = repo.get_contents(file)
             return file_content.decoded_content
