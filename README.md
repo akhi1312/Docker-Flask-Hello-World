@@ -1,3 +1,6 @@
+# Operating System
+Ubuntu - 16.04.2
+
 # Refernece 
 Professor Sithu Aung [CMPE 273 Assignement 1](https://github.com/sithu/cmpe273-spring17/tree/master/assignment1).
 
